@@ -9,16 +9,10 @@
   "eject": "react-scripts eject"
 },
 
-  "repository": {
-    "type": "git",
-    "url": "kangaroobirthday"
-  },
-  "keywords": [
-    "kangaroo"
-  ],
+
   "author": "mhmd ramadan",
   "license": "ISC",
-  "description": "",
+  "description": "Kangaroo Birthday",
   "dependencies": {
     "express": "^4.21.1"
   }
